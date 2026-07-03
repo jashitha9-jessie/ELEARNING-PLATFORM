@@ -1,0 +1,1 @@
+console.log("E-Learning Platform Loaded Successfully");

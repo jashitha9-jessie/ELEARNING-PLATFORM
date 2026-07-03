@@ -1,0 +1,315 @@
+body {
+
+  margin: 0;
+
+  font-family: Arial, sans-serif;
+
+  background: #f4f4f4;
+}
+
+/* Header */
+
+header {
+
+  background: #007bff;
+
+  color: white;
+
+  display: flex;
+
+  justify-content: space-between;
+
+  align-items: center;
+
+  padding: 15px 30px;
+}
+
+nav a {
+
+  color: white;
+
+  text-decoration: none;
+
+  margin-left: 20px;
+
+  font-size: 18px;
+}
+
+/* Hero */
+
+.hero {
+
+  text-align: center;
+
+  padding: 80px 20px;
+
+  background: white;
+}
+
+.hero h2 {
+
+  font-size: 45px;
+}
+
+/* Buttons */
+
+button {
+
+  padding: 10px 20px;
+
+  border: none;
+
+  background: #007bff;
+
+  color: white;
+
+  border-radius: 5px;
+
+  cursor: pointer;
+
+  font-size: 16px;
+}
+
+/* Features */
+
+.features {
+
+  display: flex;
+
+  justify-content: center;
+
+  gap: 20px;
+
+  padding: 40px;
+
+  flex-wrap: wrap;
+}
+
+.feature-card {
+
+  background: white;
+
+  width: 250px;
+
+  padding: 20px;
+
+  border-radius: 10px;
+
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+
+  text-align: center;
+}
+
+/* Courses */
+
+.courses-section {
+
+  text-align: center;
+
+  padding: 40px;
+}
+
+.course-container {
+
+  display: flex;
+
+  justify-content: center;
+
+  gap: 20px;
+
+  flex-wrap: wrap;
+}
+
+.course-card {
+
+  background: white;
+
+  width: 250px;
+
+  padding: 20px;
+
+  border-radius: 10px;
+
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* Progress */
+
+.progress-section {
+
+  text-align: center;
+
+  padding: 40px;
+}
+
+.progress-card {
+
+  background: white;
+
+  width: 350px;
+
+  margin: 20px auto;
+
+  padding: 20px;
+
+  border-radius: 10px;
+
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.progress-bar {
+
+  width: 100%;
+
+  height: 20px;
+
+  background: #ddd;
+
+  border-radius: 10px;
+
+  overflow: hidden;
+}
+
+.progress-fill {
+
+  height: 100%;
+}
+
+.react {
+
+  width: 70%;
+
+  background: green;
+}
+
+.js {
+
+  width: 50%;
+
+  background: orange;
+}
+
+/* Video */
+
+.video-section {
+
+  text-align: center;
+
+  padding: 40px;
+}
+
+/* Responsive */
+
+@media (max-width: 768px) {
+
+  header {
+
+    flex-direction: column;
+
+    gap: 10px;
+  }
+
+  nav {
+
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+  }
+
+  nav a {
+
+    margin: 10px 0;
+  }
+
+  iframe {
+
+    width: 100%;
+
+    height: 250px;
+  }
+
+  .hero h2 {
+
+    font-size: 30px;
+  }
+}
+/* Welcome Page */
+
+.welcome-body {
+
+  margin: 0;
+
+  height: 100vh;
+
+  background-image: url("https://images.unsplash.com/photo-1522202176988-66273c2fd55f");
+
+  background-size: cover;
+
+  background-position: center;
+
+  background-repeat: no-repeat;
+
+  font-family: Arial, sans-serif;
+}
+
+.overlay {
+
+  width: 100%;
+
+  height: 100vh;
+
+  background: rgba(0,0,0,0.6);
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+}
+
+.welcome-container {
+
+  text-align: center;
+
+  color: white;
+
+  padding: 40px;
+}
+
+.welcome-container h1 {
+
+  font-size: 65px;
+
+  margin-bottom: 20px;
+}
+
+.welcome-container p {
+
+  font-size: 24px;
+
+  margin-bottom: 30px;
+}
+
+.welcome-container button {
+
+  padding: 15px 35px;
+
+  font-size: 20px;
+
+  border: none;
+
+  border-radius: 8px;
+
+  background: #007bff;
+
+  color: white;
+
+  cursor: pointer;
+}
+
+.welcome-container button:hover {
+
+  background: #0056b3;
+}
