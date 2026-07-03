@@ -51,3 +51,9 @@ CSS Grid
 Responsive Web Design
 
 ## OUTPUTS:
+
+<img width="1897" height="871" alt="Image" src="https://github.com/user-attachments/assets/0cd3f15b-b555-4532-b2b7-e6a5d5adc5c1" />
+
+<img width="1857" height="864" alt="Image" src="https://github.com/user-attachments/assets/f1ec9825-3efc-4f8a-90e7-14987aba6b2a" />
+
+<img width="1883" height="868" alt="Image" src="https://github.com/user-attachments/assets/286f35b3-eb29-4805-99c8-9a7dbb183f12" />
