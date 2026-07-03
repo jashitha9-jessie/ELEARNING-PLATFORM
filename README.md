@@ -57,3 +57,8 @@ Responsive Web Design
 <img width="1857" height="864" alt="Image" src="https://github.com/user-attachments/assets/f1ec9825-3efc-4f8a-90e7-14987aba6b2a" />
 
 <img width="1883" height="868" alt="Image" src="https://github.com/user-attachments/assets/286f35b3-eb29-4805-99c8-9a7dbb183f12" />
+
+<img width="1907" height="892" alt="Image" src="https://github.com/user-attachments/assets/d21f255b-9a25-4392-afbe-e82f6362d709" />
+
+<img width="1855" height="840" alt="Image" src="https://github.com/user-attachments/assets/f5a8f756-a676-4683-8441-879a7f871298" />
+
